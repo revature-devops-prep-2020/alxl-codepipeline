@@ -27,3 +27,5 @@ Make the deployment group on the website. In "Environment configuration" be sure
 
 ## CodePipeline
 Although it is possible to create a pipeline with the CLI, it requires a large number of steps and creating files. It's far simpler to create a pipeline through the website. Allow it to create service roles when it wants to, and use the on-screen buttons to create additional required resources when prompted to. Choose your CodeDeploy application and deployment group as the deploy action provider.
+
+<img src="https://d2908q01vomqb2.cloudfront.net/7719a1c782a1ba91c031a682a0a2f8658209adbf/2018/01/11/k8s-code.png" width=500>
